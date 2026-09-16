@@ -1,0 +1,41 @@
+body {
+  margin: 0px !important;
+  background-color: #000;
+}
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.first-image {
+  background-image: url("https://media.glamourmagazine.co.uk/photos/675176069797f39def5bbc8f/16:9/w_1920,h_1080,c_limit/WICKED%20FATHER%20051224%20MCDWICK_UV018.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  color: #fff;
+}
+
+.content {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  margin-top: 40vh;
+}
+
+.second-image {
+  background-image: url("https://static0.colliderimages.com/wordpress/wp-content/uploads/2024/09/wicked-character-poster-ariana-grande.jpg?w=1200&h=675&fit=crop");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
